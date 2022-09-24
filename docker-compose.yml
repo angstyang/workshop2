@@ -13,7 +13,7 @@ services:
       - DB_NAME=nc_tutorials_db
       - DB_USER=postgres
       - DB_PASSWORD=admin123
-      - DB_HOST=nctutorials.ck3lk8c3efhy.us-west-2.rds.amazonaws.com
+      - DB_HOST=nctutorials1.ck3lk8c3efhy.us-west-2.rds.amazonaws.com
       - DB_PORT=5432
       - DATABASE=postgres
       - VIRTUAL_HOST=ec2-54-68-83-25.us-west-2.compute.amazonaws.com
